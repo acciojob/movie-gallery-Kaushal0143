@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+img{
+	border:1px solid red;
+	padding:2px;
+	width:100%;
+	height:100%;
+}
